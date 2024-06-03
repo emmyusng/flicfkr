@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.flick{
+    font-size: 12px;
+}
+.header{
+    height: 60px;
+    color: black;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: none;
+    justify-content: space-between;
+}
+.three{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.form-control{
+    width: 770px !important;
+    height: 32px;
+}
+.term{
+    margin-top: 100px;
+
+}
+.btn{
+    margin-top: 90px;
+}
+.findme{
+    font-size: 70px;
+}
+.backs{
+    margin-top: 90px;
+}
+.back{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+    display: block;
+    padding: 100px;
+    background-image:url(./img/Sean_Sweeney_Snow_Beauty.jpg);
+}
